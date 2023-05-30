@@ -1,5 +1,5 @@
-./Fake.br-Corpus/
-./BRACIS2019_FAKENEWS/
-./fake_real_news_dataset/
-./fakenewsdata1/
-./news-credibility/
+/dataset/Fake.br-Corpus/
+/dataset/BRACIS2019_FAKENEWS/
+/dataset/fake_real_news_dataset/
+/dataset/fakenewsdata1/
+/dataset/news-credibility/
